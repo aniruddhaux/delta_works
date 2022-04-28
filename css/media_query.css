@@ -1,0 +1,1230 @@
+@media only screen and (min-width:2048px){
+
+
+}
+@media only screen and (min-width:1600px) and (max-width:2047px){
+
+
+
+}
+@media only screen and (min-width:1440px) and (max-width:1599px){
+}
+@media only screen and (min-width:1250px) and (max-width:1439px){
+
+}
+@media only screen and (min-width:960px) and (max-width:1149px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li {
+    padding: 0 14px !important;
+	}	
+#header .navMenu ul li a {
+    font-size: 13px !important;
+    padding: 0 10px !important;
+	}	
+.caption h1 {
+    font-size: 21px;
+    line-height: 29px;
+	}	
+.service_sec li p {
+    font-size: 14px;
+    line-height: 21px;
+    padding: 0 0 7px;
+	}	
+.textBox h4 {
+    font-size: 23px;
+    padding: 0 0 15px;
+	}	
+.quick_Links {
+    width: 25%;
+	}	
+.twitter_box {
+    padding: 0 29px;
+	}	
+.service_sec .wrapper{
+	overflow:hidden;
+	}	
+.banner {
+    padding: 20px 0 0;
+	}	
+	
+	
+	
+	
+	
+	
+	
+/**********  Testimonials page css *******/	
+.testimonial_lists p {
+    font-size: 17px !important;
+    line-height: 29px !important;
+	}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+@media only screen and (min-width:769px) and (max-width:959px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li {
+    padding: 0 14px !important;
+	}	
+#header .navMenu ul li a {
+    font-size: 13px !important;
+    padding: 0 10px !important;
+	}	
+.caption h1 {
+    font-size: 21px;
+    line-height: 29px;
+	}	
+.service_sec li p {
+    font-size: 14px;
+    line-height: 21px;
+    padding: 0 0 7px;
+	}	
+.textBox h4 {
+    font-size: 21px;
+    padding: 0 0 15px;
+	}	
+.quick_Links {
+    width: 25%;
+	}	
+.twitter_box {
+    padding: 0 29px;
+	}	
+.service_sec .wrapper{
+	overflow:hidden;
+	}	
+.banner {
+    padding: 20px 0 0;
+	}	
+.mean-nav {
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    right: 0;
+    top: 6px;
+    width: 250px !important;
+	}	
+.searchBox input[type="text"] {
+    width: 210px;
+	}
+.searchBox {
+    margin: 3px 54px 0;
+	}
+.navBar {
+    float: right;
+    height: 0;
+    position: relative;
+    width: 50px;
+	}
+#header {
+    position: absolute;
+    right: 0;
+    top: -67px;
+	}
+.flexslider {
+    padding-bottom:40px !important;
+	}
+.flex-control-nav {
+    bottom: 7px !important;
+	}
+.copyright {
+    padding: 10px 0;
+	}
+.copyright p {
+    font-size: 14px;
+	}
+.quick_Links li {
+    font-size: 15px;
+	}
+.service_sec li h4 {
+    font-size: 17px;
+	}
+.service_sec li h4 a span {
+    display: block;
+	}
+.logo img {
+    padding: 5px 0 0;
+	}
+
+
+
+
+
+
+/**********  Testimonials page css *******/	
+.testimonial_lists p {
+    font-size: 17px !important;
+    line-height: 29px !important;
+	}	
+	
+
+
+
+
+	
+}
+@media only screen and (min-width:641px) and (max-width:768px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li {
+    padding: 0 14px !important;
+	}	
+#header .navMenu ul li a {
+    font-size: 13px !important;
+    padding: 0 10px !important;
+	}	
+.caption h1 {
+    font-size: 21px;
+    line-height: 29px;
+	}	
+.service_sec li p {
+    font-size: 14px;
+    line-height: 21px;
+    padding: 0 0 7px;
+	}	
+.textBox h4 {
+    font-size: 20px;
+    padding: 0 0 15px;
+	}	
+.quick_Links {
+    width: 25%;
+	}	
+.twitter_box {
+    padding: 0 29px;
+	}	
+.service_sec .wrapper{
+	overflow:hidden;
+	}	
+.banner {
+    padding: 20px 0 0;
+	}	
+.mean-nav {
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    right: 0;
+    top: 6px;
+    width: 250px !important;
+	}	
+.searchBox input[type="text"] {
+    width: 210px;
+	}
+.searchBox {
+    margin: 0px 54px 0;
+	}
+.navBar {
+    float: right;
+    height: 0;
+    position: relative;
+    width: 50px;
+	}
+#header {
+    position: absolute;
+    right: 0;
+    top: -61px;
+	}
+.flexslider {
+    padding-bottom:40px !important;
+	}
+.flex-control-nav {
+    bottom: 7px !important;
+	}
+.copyright {
+    padding: 10px 0;
+	}
+.copyright p {
+    font-size: 14px;
+	}
+.quick_Links li {
+    font-size: 15px;
+	}
+.service_sec li h4 {
+    font-size: 17px;
+	}
+.service_sec li h4 a span {
+    display: block;
+	}
+.logo img {
+    height: auto;
+    padding: 5px 0 0;
+    width: 200px;
+	}
+.cnt_box h3 {
+    font-size: 23px;
+	}
+.textBox h3 {
+    font-size: 18px;
+	}
+.caption {
+    width: 80%;
+	}
+.testimonial h3 {
+    font-size: 25px;
+    padding: 0 0 14px;
+	}
+.menuBar li a {
+    padding: 13px 11px;
+	}
+.ft_link_box li {
+    border-right: medium none;
+    display: block;
+    float: none;
+    padding: 0 0 20px;
+    width: auto;
+	clear:both;
+	}
+.ft_link_box li li{
+    margin: 0 0 8px;
+    padding-bottom: 0;
+	}
+.ft_link_box li ul:after{
+	content:'';
+	clear:both;
+	display:block;
+	}	
+.quick_Links li {
+    display: inline-block;
+    float: left;
+    width: 50%;
+	clear:none;
+	}
+.our_news {
+    float: none !important;
+	}
+.allNews {
+    float: none;
+	}
+.ft_link_box li h4 {
+    padding: 0 0 13px;
+	}
+.ft_link_box {
+    padding: 40px 0 20px;
+	}
+
+
+
+
+
+/************  Service page css ************/
+.textBox {
+    float: none;
+    width: auto;
+	}	
+.cnt_box {
+    float: none;
+    margin: 40px 0 0;
+    width: auto;
+	}
+
+
+
+
+/************  Contact page css ************/
+.cnt_box.contact_leftPanel {
+    float: none;
+    width: auto;
+	}
+
+
+
+
+/**********  Testimonials page css *******/	
+.testimonial_lists p {
+    font-size: 17px !important;
+    line-height: 29px !important;
+	}	
+	
+
+
+
+
+
+
+
+
+
+	
+}
+@media only screen and (min-width:481px) and (max-width:640px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li {
+    padding: 0 14px !important;
+	}	
+#header .navMenu ul li a {
+    font-size: 13px !important;
+    padding: 0 10px !important;
+	}	
+.caption h1 {
+    font-size: 17px;
+    line-height: 23px;
+	}	
+.service_sec li p {
+    font-size: 14px;
+    line-height: 21px;
+    padding: 0 0 7px;
+	}	
+.textBox h4 {
+    font-size: 20px;
+    padding: 0 0 15px;
+	}	
+.quick_Links {
+    width: 25%;
+	}	
+.twitter_box {
+    padding: 0 29px;
+	}	
+.service_sec .wrapper{
+	overflow:hidden;
+	}	
+.banner {
+    padding: 20px 0 0;
+	}	
+.mean-nav {
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    right: 0;
+    top: 6px;
+    width: 250px !important;
+	}	
+.searchBox input[type="text"] {
+    width: 120px;
+	}
+.searchBox {
+    margin:0 54px 0 0;
+	}
+.navBar {
+    float: right;
+    height: 0;
+    position: relative;
+    width: 50px;
+	}
+#header {
+    position: absolute;
+    right: 0;
+    top: -61px;
+	}
+.flexslider {
+    padding-bottom:40px !important;
+	}
+.flex-control-nav {
+    bottom: 7px !important;
+	}
+.copyright {
+    padding: 10px 0;
+	}
+.copyright p {
+    font-size: 14px;
+	}
+.quick_Links li {
+    font-size: 15px;
+	}
+.service_sec li h4 {
+    font-size: 17px;
+	}
+.service_sec li h4 a span {
+    display: block;
+	}
+.logo img {
+    height: auto;
+    padding: 5px 0 0;
+    width: 200px;
+	}
+.cnt_box h3 {
+    font-size: 23px;
+	}
+.textBox h3 {
+    font-size: 18px;
+	}
+.caption {
+    padding: 5px 15px 5px 80px;
+    width: 100%;
+	}
+.testimonial h3 {
+    font-size: 25px;
+    padding: 0 0 14px;
+	}
+.menuBar li a {
+    padding: 13px 11px;
+	}
+.ft_link_box li {
+    border-right: medium none;
+    display: block;
+    float: none;
+    padding: 0 0 20px;
+    width: auto;
+	clear:both;
+	}
+.ft_link_box li li{
+    margin: 0 0 8px;
+    padding-bottom: 0;
+	}
+.ft_link_box li ul:after{
+	content:'';
+	clear:both;
+	display:block;
+	}	
+.quick_Links li {
+    display: inline-block;
+    float: left;
+    width: 50%;
+	clear:none;
+	}
+.our_news {
+    float: none !important;
+	}
+.allNews {
+    float: none;
+	}
+.ft_link_box li h4 {
+    padding: 0 0 13px;
+	}
+.ft_link_box {
+    padding: 40px 0 20px;
+	}
+.service_sec li {
+    margin: 0 0 50px;
+    width: 50%;
+	}
+.textBox {
+    float: none;
+    text-align: center;
+    width: auto;
+	}
+.service_sec {
+    padding: 50px 0 0;
+	}
+.textBox p {
+    color: #535353;
+    font-size: 15px;
+    line-height: 26px;
+	}
+p {
+    font-size: 15px;
+	}
+.cnt_box {
+    float: none;
+    margin-top: 30px;
+    text-align: center;
+    width: auto;
+	}
+.slide p {
+    font-size: 15px;
+    line-height: 26px;
+	}
+.slide h5 {
+    font-size: 16px;
+	}
+
+
+
+
+
+
+/************  Service page css ************/
+.textBox {
+    float: none;
+    width: auto;
+	}	
+.cnt_box {
+    float: none;
+    margin: 40px 0;
+    width: auto;
+	}
+.flexslider::after {
+    bottom: -21px;
+    height: 20px;
+	}
+.service_sec .textBox h3 {
+    font-size: 23px;
+    padding: 0 0 10px;
+	}
+.service_sec blockquote {
+    font-size: 17px;
+    line-height: 28px;
+    padding: 12px;
+	}
+.service_cnt {
+    padding: 20px;
+	}
+.service_cnt h4 span {
+    font-size: 17px;
+	}
+.service_cnt h4 {
+    line-height: 27px;
+	}
+.service_cnt a {
+    margin: 0 auto 10px;
+	}
+
+
+
+
+/************  Contact page css ************/
+.cnt_box.contact_leftPanel {
+    float: none;
+    width: auto;
+	}
+
+
+/**********  Testimonials page css *******/	
+.testimonial_lists p {
+    font-size: 15px !important;
+    line-height: 26px !important;
+	}	
+.testimonial_lists li {
+    width: auto;
+	}	
+
+
+
+/**********  News page css *******/	
+.news_lists li {
+    width: 100%;
+	}
+
+
+
+
+
+
+
+
+
+
+
+	
+}
+@media only screen and (min-width:321px) and (max-width:480px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li {
+    padding: 0 14px !important;
+	}	
+#header .navMenu ul li a {
+    font-size: 13px !important;
+    padding: 0 10px !important;
+	}	
+.caption h1 {
+    font-size: 14px;
+    line-height: 19px;
+	}	
+.service_sec li p {
+    font-size: 14px;
+    line-height: 21px;
+    padding: 0 0 7px;
+	}	
+.textBox h4 {
+    font-size: 16px;
+    padding: 0 0 15px;
+	}	
+.quick_Links {
+    width: 25%;
+	}	
+.twitter_box {
+    padding: 0 29px;
+	}	
+.service_sec .wrapper{
+	overflow:hidden;
+	}	
+.banner {
+    padding: 20px 0 0;
+	}	
+.mean-nav {
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    right: 0;
+    top: 6px;
+    width: 250px !important;
+	}	
+.searchBox input[type="text"] {
+    width: 170px;
+	}
+.searchBox {
+    display: table;
+    float: none;
+    margin: 0 auto;
+	}
+.navBar {
+    float: right;
+    height: 0;
+    position: relative;
+    width: 50px;
+	}
+#header {
+    position: absolute;
+    right: 0;
+    top: -108px;
+	}
+.flexslider {
+    padding: 6px 6px 30px !important;
+	}
+.flex-control-nav {
+    bottom: 3px !important;
+	}
+.copyright {
+    padding: 10px 0;
+	}
+.copyright p {
+    font-size: 14px;
+	}
+.quick_Links li {
+    font-size: 15px;
+	}
+.service_sec li h4 {
+    font-size: 16px;
+	}
+.service_sec li h4 a span {
+    display: block;
+	}
+.logo img {
+    height: auto;
+    padding: 5px 0 0;
+    width: 200px;
+	}
+.cnt_box h3 {
+    font-size: 23px;
+	}
+.textBox h3 {
+    font-size: 15px;
+	}
+.caption {
+    padding: 5px 15px 5px 80px;
+    width: 100%;
+	}
+.testimonial h3 {
+    font-size: 25px;
+    padding: 0 0 14px;
+	}
+.menuBar li a {
+    font-size: 12px;
+    padding: 12px 5px;
+	}
+.ft_link_box li {
+    border-right: medium none;
+    display: block;
+    float: none;
+    padding: 0 0 20px;
+    width: auto;
+	clear:both;
+	}
+.ft_link_box li li{
+    margin: 0 0 8px;
+    padding-bottom: 0;
+	}
+.ft_link_box li ul:after{
+	content:'';
+	clear:both;
+	display:block;
+	}	
+.quick_Links li {
+    
+	}
+.our_news {
+    float: none !important;
+	}
+.allNews {
+    float: none;
+	}
+.ft_link_box li h4 {
+    padding: 0 0 13px;
+	}
+.ft_link_box {
+    padding: 40px 0 20px;
+	}
+.service_sec li {
+    margin: 0 0 50px;
+    width: 50%;
+	}
+.textBox {
+    float: none;
+    text-align: center;
+    width: auto;
+	}
+.service_sec {
+    padding: 50px 0 0;
+	}
+.textBox p {
+    color: #535353;
+    font-size: 15px;
+    line-height: 26px;
+	}
+p {
+    font-size: 15px;
+	}
+.cnt_box {
+    float: none;
+    margin-top: 30px;
+    text-align: center;
+    width: auto;
+	}
+.slide p {
+    font-size: 15px;
+    line-height: 26px;
+	}
+.slide h5 {
+    font-size: 16px;
+	}
+.socialList li {
+    margin: 4px 3px 4px 0;
+	}
+.logo {
+    float: none;
+    margin: 0 0 13px;
+	}
+.headTop {
+    padding: 10px 0;
+	}
+.our_news li h5 {
+    font-size: 15px;
+	}
+
+
+
+
+/************  Service page css ************/
+.textBox {
+    float: none;
+    width: auto;
+	}	
+.cnt_box {
+    float: none;
+    margin: 40px 0;
+    width: auto;
+	}
+.flexslider::after {
+    bottom: -21px;
+    height: 20px;
+	}
+.service_sec .textBox h3 {
+    font-size: 21px;
+    padding: 0 0 10px;
+	}
+.service_sec blockquote {
+    font-size: 17px;
+    line-height: 28px;
+    padding: 12px;
+	}
+.service_cnt {
+    padding: 20px;
+	}
+.service_cnt h4 span {
+    font-size: 17px;
+	}
+.service_cnt h4 {
+    line-height: 27px;
+	}
+.service_cnt a {
+    margin: 0 auto 10px;
+	}
+
+
+
+
+/************  Contact page css ************/
+.cnt_box.contact_leftPanel {
+    float: none;
+    width: auto;
+	}
+.contact_pg .textBox h3 {
+    font-size: 20px;
+	}
+.contact_pg .cnt_box {
+    margin-top: 0;
+	}
+.cnt_box.contact_leftPanel span {
+    font-size: 15px;
+    line-height: 23px;
+	}
+.cnt_box.contact_leftPanel h6 {
+    font-size: 17px;
+	}
+
+
+
+/**********  Testimonials page css *******/	
+.testimonial_lists p {
+    font-size: 15px !important;
+    line-height: 26px !important;
+	}	
+.testimonial_lists li {
+    margin-bottom: 20px;
+    width: auto;
+	}	
+.testimonial_sec li h6 {
+    font-size: 20px;
+    padding: 0 0 7px;
+	}
+
+
+/**********  News page css *******/	
+.news_lists li {
+    width: 100%;
+	}
+.news_lists li h6 {
+    font-size: 18px;
+    padding: 0 0 11px;
+	}
+
+
+
+
+
+
+
+
+
+	
+}
+@media only screen and (max-width:320px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+#header .navMenu ul li {
+    padding: 0 14px !important;
+	}	
+#header .navMenu ul li a {
+    font-size: 13px !important;
+    padding: 0 10px !important;
+	}	
+.caption h1 {
+    font-size: 14px;
+    line-height: 19px;
+	display:none;
+	}	
+.service_sec li p {
+    font-size: 14px;
+    line-height: 21px;
+    padding: 0 0 7px;
+	}	
+.textBox h4 {
+    font-size: 16px;
+    padding: 0 0 15px;
+	}	
+.quick_Links {
+    width: 25%;
+	}	
+.twitter_box {
+    padding: 0 29px;
+	}	
+.service_sec .wrapper{
+	overflow:hidden;
+	}	
+.banner {
+    padding: 20px 0 0;
+	}	
+.mean-nav {
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    right: 0;
+    top: 6px;
+    width: 220px !important;
+	}	
+.searchBox input[type="text"] {
+    width: 120px;
+	}
+.searchBox {
+    display: table;
+    float: none;
+    margin: 0 auto;
+	}
+.navBar {
+    float: right;
+    height: 0;
+    position: relative;
+    width: 50px;
+	}
+#header {
+    position: absolute;
+    right: 0;
+    top: -108px;
+	}
+.flexslider {
+    padding: 6px 6px 30px !important;
+	}
+.flex-control-nav {
+    bottom: 3px !important;
+	}
+.copyright {
+    padding: 10px 0;
+	}
+.copyright p {
+    font-size: 14px;
+	}
+.quick_Links li {
+    font-size: 15px;
+	}
+.service_sec li h4 {
+    font-size: 16px;
+	}
+.service_sec li h4 a span {
+    display: block;
+	}
+.logo img {
+    height: auto;
+    padding: 5px 0 0;
+    width: 160px;
+	}
+.cnt_box h3 {
+    font-size: 23px;
+	}
+.textBox h3 {
+    font-size: 15px;
+	}
+.caption {
+    padding: 5px 15px 5px 80px;
+    width: 100%;
+	}
+.testimonial h3 {
+    font-size: 22px;
+    padding: 0 0 14px;
+	}
+.menuBar li a {
+    font-size: 12px;
+    padding: 0 5px 10px;
+	}
+.ft_link_box li {
+    border-right: medium none;
+    display: block;
+    float: none;
+    padding: 0 0 20px;
+    width: auto;
+	clear:both;
+	}
+.ft_link_box li li{
+    margin: 0 0 8px;
+    padding-bottom: 0;
+	}
+.ft_link_box li ul:after{
+	content:'';
+	clear:both;
+	display:block;
+	}	
+.quick_Links li {
+    
+	}
+.our_news {
+    float: none !important;
+	}
+.allNews {
+    float: none;
+	}
+.ft_link_box li h4 {
+    padding: 0 0 13px;
+	}
+.ft_link_box {
+    padding: 40px 0 20px;
+	}
+.service_sec li {
+    border: medium none;
+    float: none;
+    margin: 0 0 40px;
+    width: auto;
+	}
+.textBox {
+    float: none;
+    text-align: center;
+    width: auto;
+	}
+.service_sec {
+    padding: 20px 0 0;
+	}
+.textBox p {
+    color: #535353;
+    font-size: 15px;
+    line-height: 26px;
+	}
+p {
+    font-size: 15px;
+	}
+.cnt_box {
+    float: none;
+    margin-top: 30px;
+    text-align: center;
+    width: auto;
+	}
+.slide p {
+    font-size: 15px;
+    line-height: 26px;
+	}
+.slide h5 {
+    font-size: 16px;
+	}
+.socialList li {
+    margin: 4px 3px 4px 0;
+	}
+.logo {
+    margin: 0 0 13px;
+	}
+.headTop {
+    padding: 14px 0;
+	}
+.our_news li h5 {
+    font-size: 15px;
+	}
+.socialList {
+    display: table;
+    margin: 0 auto;
+	}
+.menuBar {
+    float: none;
+    margin: 0 auto;
+	}
+.menuBar ul {
+    display: table;
+    margin: 0 auto;
+    width: auto;
+	}
+.menuBar li:last-child a {
+    padding-right: 5px;
+	}
+
+
+
+
+/************  Service page css ************/
+.textBox {
+    float: none;
+    width: auto;
+	}	
+.cnt_box {
+    float: none;
+    margin: 40px 0;
+    width: auto;
+	}
+.flexslider::after {
+    bottom: -21px;
+    height: 20px;
+	}
+.service_sec .textBox h3 {
+    font-size: 18px;
+    padding: 0 0 10px;
+	}
+.service_sec blockquote {
+    font-size: 17px;
+    line-height: 28px;
+    padding: 12px;
+	}
+.service_cnt {
+    padding: 20px;
+	}
+.service_cnt h4 span {
+    font-size: 17px;
+	}
+.service_cnt h4 {
+    line-height: 27px;
+	}
+.service_cnt a {
+    margin: 0 auto 10px;
+	}
+
+
+
+
+
+
+/************  Contact page css ************/
+.cnt_box.contact_leftPanel {
+    float: none;
+    width: auto;
+	}
+.contact_pg .textBox h3 {
+    font-size: 20px;
+	}
+.contact_pg .cnt_box {
+    margin-top: 0;
+	}
+.cnt_box.contact_leftPanel span {
+    font-size: 15px;
+    line-height: 23px;
+	}
+.cnt_box.contact_leftPanel h6 {
+    font-size: 17px;
+	}
+
+
+
+
+/**********  Testimonials page css *******/	
+.testimonial_lists p {
+    font-size: 15px !important;
+    line-height: 26px !important;
+	}	
+.testimonial_lists li {
+    margin-bottom: 20px;
+    width: auto;
+	}	
+.testimonial_sec li h6 {
+    font-size: 20px;
+    padding: 0 0 7px;
+	}
+
+
+
+
+/**********  News page css *******/	
+.news_lists li {
+    width: 100%;
+	}
+.news_lists li h6 {
+    font-size: 18px;
+    padding: 0 0 11px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
